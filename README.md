@@ -23,7 +23,7 @@
 - [Redux](https://cn.redux.js.org/) - JS 应用的状态容器，提供可预测化的状态管理
 - [MobX](https://mobx.js.org/README.html) - 简单、可扩展的状态管理
 
-## 拖拽/拖放/动画
+## 拖拽与拖放
 
 - [react-sortable-hoc](https://clauderic.github.io/react-sortable-hoc/#/basic-configuration/basic-usage?_k=bbw1p5) - 一个拖拽和拖放的 React 库
 - [dnd-kit](https://docs.dndkit.com/) - 用于 React 的轻量级、模块化、高性能、可访问且可扩展的拖放工具包
