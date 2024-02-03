@@ -14,19 +14,21 @@
 
 - [React Router](https://reactrouter.com/en/main) - 最受欢迎的前端路由之一
 
+## 发布订阅
+- [mitt](https://www.npmjs.com/package/mitt) - 轻量级的发布订阅工具
+
 ## 状态管理
 
 - [zustand](https://zustand-demo.pmnd.rs/) - 一种小型、快速且可扩展的状态管理解决方案
 - [Redux](https://cn.redux.js.org/) - JS 应用的状态容器，提供可预测化的状态管理
 - [MobX](https://mobx.js.org/README.html) - 简单、可扩展的状态管理
-- [mitt](https://www.npmjs.com/package/mitt) - 轻量级的发布订阅工具
 
 ## 拖拽/拖放/动画
 
 - [react-sortable-hoc](https://clauderic.github.io/react-sortable-hoc/#/basic-configuration/basic-usage?_k=bbw1p5) - 一个拖拽和拖放的 React 库
 - [dnd-kit](https://docs.dndkit.com/) - 用于 React 的轻量级、模块化、高性能、可访问且可扩展的拖放工具包
 
-### 动画
+## 动画
 
 - [Framer Motion](https://www.framer.com/motion/) - 用于 React 的生产就绪运动库
 - [auto-animate](https://auto-animate.formkit.com/) - AutoAnimate 是一个零配置的嵌入式动画实用程序，可为您的 Web 应用程序添加平滑的过渡。您可以将它与 React、Solid、Vue、Svelte 或任何其他 JavaScript 应用程序一起使用
