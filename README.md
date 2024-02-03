@@ -1,1 +1,105 @@
-# React-Ecosystem
+# React 生态系统
+
+## UI 组件库
+
+- [Ant Design](https://ant.design/index-cn) - 一套企业级 UI 设计语言和 React 组件库
+- [React Bootstrap](https://react-bootstrap.github.io/docs/components/accordion) - 一个基于 Bootstrap 的 React UI 库
+- [Chakra UI](https://chakra-ui.com/getting-started) - 一个简单、模块化和可访问的 UI 组件库
+- [Shadcn UI](https://ui.shadcn.com/docs/components/accordion) - Radix UI - 是一个无头 UI 库。也就是说，它有组件 API，但没有样式。Shadcn UI 建立在 Tailwind CSS 和 Radix UI 之上，目前支持 Next.js、Gatsby、Remix、Astro、Laravel 和 Vite，并且拥有与其他项目快速集成的能力
+- [TDesign](https://tdesign.tencent.com/starter/) - 一套企业级 UI 设计语言和 React 组件库
+- [arco.design](https://arco.design/) - 一套企业级 UI 设计语言和 React 组件库
+- [Material-UI](https://material-ui.com/zh/) - 一个 React 组件库，实现了 Google 的 Material Design 规范
+
+## 路由
+
+- [React Router](https://reactrouter.com/en/main) - 最受欢迎的前端路由之一
+
+## 状态管理
+
+- [zustand](https://zustand-demo.pmnd.rs/) - 一种小型、快速且可扩展的状态管理解决方案
+- [Redux](https://cn.redux.js.org/) - JS 应用的状态容器，提供可预测化的状态管理
+- [MobX](https://mobx.js.org/README.html) - 简单、可扩展的状态管理
+- [mitt](https://www.npmjs.com/package/mitt) - 轻量级的发布订阅工具
+
+## 拖拽/拖放/动画
+
+- [react-sortable-hoc](https://clauderic.github.io/react-sortable-hoc/#/basic-configuration/basic-usage?_k=bbw1p5) - 一个拖拽和拖放的 React 库
+- [dnd-kit](https://docs.dndkit.com/) - 用于 React 的轻量级、模块化、高性能、可访问且可扩展的拖放工具包
+
+### 动画
+
+- [Framer Motion](https://www.framer.com/motion/) - 用于 React 的生产就绪运动库
+- [auto-animate](https://auto-animate.formkit.com/) - AutoAnimate 是一个零配置的嵌入式动画实用程序，可为您的 Web 应用程序添加平滑的过渡。您可以将它与 React、Solid、Vue、Svelte 或任何其他 JavaScript 应用程序一起使用
+
+## Form/Table/Modal
+
+- [react-hook-form](https://react-hook-form.com/) - 一个简单、灵活且可扩展的表单验证库
+- [react-virtualized](https://bvaughn.github.io/react-virtualized/#/components/List) - 用于有效地呈现大型列表和表格数据
+
+## CSS
+
+- [styled-components](https://styled-components.com/) - 一个 CSS in JS 库
+- [jss](https://cssinjs.org/?v=v10.10.0) - 一个 CSS in JS 库
+- [clsx](https://github.com/lukeed/clsx) - 一个用于处理 css 类名的库，比 classnames 更轻量化
+- [classnames](https://github.com/JedWatson/classnames) - 一个用于处理 css 类名的库
+- [scss/sass](https://sass-lang.com/) - 世界上最成熟、稳定和强大的 CSS 扩展语言
+- [Tailwind CSS](https://tailwindcss.com/) - 只需书写 HTML 代码，无需书写 CSS，即可快速构建美观的网站
+
+## 国际化
+
+- [i18next](https://www.i18next.com/) - 通用的国际化解决方案
+- [react-i18next](https://react.i18next.com/) - 是 i18next 的 React 插件
+
+## 数据处理
+
+- [lodash](https://www.lodashjs.com/) 是一个一致性、模块化、高性能的 JavaScript 实用工具库
+- [nanoid](https://zelark.github.io/nano-id-cc/) - 一个用于生成随机 `ID` 的库
+
+## 工具 hooks
+
+- [usehooks-ts](https://usehooks-ts.com/) 是一个没有任何依赖项、便于使用支持 TypeScript 的 hooks 库
+- [ahooks](https://ahooks.js.org/zh-CN/) - 一套高质量可靠的 React Hooks 库
+- [react-use](https://streamich.github.io/react-use/?path=/story/components-usekey--demo) - 一个 React Hooks 库
+
+## 数据请求状态管理库
+
+- [SWR](https://swr.vercel.app/zh-CN) - 用于数据请求的 React Hooks 库
+- [query](https://tanstack.com/query/latest) - 适用于 TS/JS、React、Solid、Vue 和 Svelte 的强大异步状态管理
+
+## GraphQL
+
+- [urql](https://formidable.com/open-source/urql/docs/) - 一个简单的、轻量的 graphql client
+- [Apollo Client](https://www.apollographql.com/docs/react/) - GraphQL 的 JavaScript 客户端
+
+## 网络请求库
+
+- [Axios](https://www.axios-http.cn/docs/intro) - 一个基于 `Promise` 网络请求库，作用于 node.js 和浏览器中
+
+## 测试
+
+- [Jest](https://jestjs.io/) - 一个令人愉快的 JavaScript 单元测试框架
+- [Vitest](https://cn.vitest.dev/) - 由 Vite 提供支持的极速单元测试框架
+- [@testing-library/jest-dom]()
+- [@testing-library/react]()
+
+## SSG
+
+- [Rspress](https://rspress.dev/) - 基于 Rspack 的静态站点生成器
+
+## 组件库文档
+
+- [Storybook](https://storybook.js.org/) - 一个 UI 组件开发管理的工具
+- [docz](https://www.docz.site/docs/getting-started) - 一套与 Storybook 相比更简约的组件库文档实现方案
+
+## 滚动条
+
+- [OverlayScrollbars](https://kingsora.github.io/OverlayScrollbars/#!overview) - 一个自定义滚动条的库
+- [simplebar-react](https://grsmto.github.io/simplebar/) - 一个自定义滚动条的库
+
+- [linkifyjs](https://linkify.js.org/) - 使用 Linkify 查找纯文本链接并将其转换为 HTML <a> 标记。它会自动突出显示 URL、#hashtags、@mentions 等
+- [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的视觉宽度，显示它所需的列数
+
+## 日期
+
+- [Day.js](https://dayjs.gitee.io/zh-CN/) - Moment.js 的 2kB 轻量化方案，拥有同样强大的 AP
+- [date-fns](https://date-fns.org/) - 一个轻量级的 JavaScript 日期库
