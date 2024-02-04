@@ -117,6 +117,8 @@
 - [OverlayScrollbars](https://kingsora.github.io/OverlayScrollbars/#!overview) - 一个自定义滚动条的库
 - [simplebar-react](https://grsmto.github.io/simplebar/) - 一个自定义滚动条的库
 
+## 基础库
+
 - [linkifyjs](https://linkify.js.org/) - 使用 Linkify 查找纯文本链接并将其转换为 HTML <a> 标记。它会自动突出显示 URL、#hashtags、@mentions 等
 - [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的视觉宽度，显示它所需的列数
 
