@@ -70,7 +70,11 @@
 
 ## 数据处理
 
-- [lodash](https://www.lodashjs.com/) 是一个一致性、模块化、高性能的 JavaScript 实用工具库
+- [Lodash](https://www.lodashjs.com/) 是一个一致性、模块化、高性能的 JavaScript 实用工具库
+- [Underscore.js](https://underscorejs.org/) 是一个JavaScript 工具库，它提供了一整套函数式编程的实用功能，但是没有扩展任何JavaScript 内置对象
+- [Ramda](https://ramda.cn/) 是一款实用的 JavaScript 函数式编程库
+
+## 
 - [nanoid](https://zelark.github.io/nano-id-cc/) - 一个用于生成随机 `ID` 的库
 
 ## 工具 hooks
