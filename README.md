@@ -77,7 +77,7 @@
 ## 
 - [nanoid](https://zelark.github.io/nano-id-cc/) - 一个用于生成随机 `ID` 的库
 
-## 工具 hooks
+## 自定义 hooks
 
 - [usehooks-ts](https://usehooks-ts.com/) 是一个没有任何依赖项、便于使用支持 TypeScript 的 hooks 库
 - [ahooks](https://ahooks.js.org/zh-CN/) - 一套高质量可靠的 React Hooks 库
