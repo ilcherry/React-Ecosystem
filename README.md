@@ -123,7 +123,7 @@
 ## 滚动条
 
 - [OverlayScrollbars](https://kingsora.github.io/OverlayScrollbars/#!overview) - 一个自定义滚动条的库
-- [simplebar-react](https://grsmto.github.io/simplebar/) - 一个自定义滚动条的库
+- [Simple Bar](https://grsmto.github.io/simplebar/) - 一个自定义滚动条的库
 
 ## 基础库
 
