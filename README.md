@@ -46,6 +46,8 @@
 
 ## Modal
 
+- [nice-modal-react](https://opensource.ebay.com/nice-modal-react/) - 管理模态框
+
 ## CSS 预处理器
 
 - [Scss/Sass](https://sass-lang.com/) - 世界上最成熟、稳定和强大的 CSS 扩展语言
