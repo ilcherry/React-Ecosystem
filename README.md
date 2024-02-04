@@ -105,6 +105,11 @@
 - [Jest](https://jestjs.io/) - 一个令人愉快的 JavaScript 单元测试框架
 - [Vitest](https://cn.vitest.dev/) - 由 Vite 提供支持的极速单元测试框架
 
+## 端到端测试
+
+- [Playwright](https://playwright.dev/) 为现代 Web 应用程序提供可靠的端到端测试
+- [Cypress](https://www.cypress.io/) 用来编写所有类型的测试：端到端的测试、集成测试、单元测试。只要有一个浏览器来给它运行，它就可以来测试web里任何东西
+
 ## SSG
 
 - [Rspress](https://rspress.dev/) - 基于 Rspack 的静态站点生成器
