@@ -57,7 +57,8 @@
 ## CSS in JS
 
 - [styled-components](https://styled-components.com/) - 一个 CSS in JS 库
-- [jss](https://cssinjs.org/?v=v10.10.0) - 一个 CSS in JS 库
+- [JSS](https://cssinjs.org/?v=v10.10.0) - 一个 CSS in JS 库
+- [React-JSS](https://www.npmjs.com/package/react-jss) - JSS 与 React集成
 - [Tailwind CSS](https://tailwindcss.com/) - 只需书写 HTML 代码，无需书写 CSS，即可快速构建美观的网站
 
 ## CSS 类名处理
