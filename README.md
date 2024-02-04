@@ -13,6 +13,7 @@
 ## 路由
 
 - [React Router](https://reactrouter.com/en/main) - 最受欢迎的前端路由之一
+- [TanStack Router](https://tanstack.com/router/latest)
 
 ## 发布订阅
 - [mitt](https://www.npmjs.com/package/mitt) - 轻量级的发布订阅工具
@@ -22,6 +23,7 @@
 - [zustand](https://zustand-demo.pmnd.rs/) - 一种小型、快速且可扩展的状态管理解决方案
 - [Redux](https://cn.redux.js.org/) - JS 应用的状态容器，提供可预测化的状态管理
 - [MobX](https://mobx.js.org/README.html) - 简单、可扩展的状态管理
+- [Recoil](https://recoiljs.org/) - Meta 官方推出的状态管理库
 
 ## 拖拽与拖放
 
@@ -33,19 +35,30 @@
 - [Framer Motion](https://www.framer.com/motion/) - 用于 React 的生产就绪运动库
 - [auto-animate](https://auto-animate.formkit.com/) - AutoAnimate 是一个零配置的嵌入式动画实用程序，可为您的 Web 应用程序添加平滑的过渡。您可以将它与 React、Solid、Vue、Svelte 或任何其他 JavaScript 应用程序一起使用
 
-## Form/Table/Modal
+## Form
 
 - [react-hook-form](https://react-hook-form.com/) - 一个简单、灵活且可扩展的表单验证库
 - [react-virtualized](https://bvaughn.github.io/react-virtualized/#/components/List) - 用于有效地呈现大型列表和表格数据
+- [Formik](https://formik.org/) Formik 是世界上最流行的 React 和 React Native 开源表单库
 
-## CSS
+## Table
+
+## Modal
+
+## CSS 预处理器
+
+- [scss/sass](https://sass-lang.com/) - 世界上最成熟、稳定和强大的 CSS 扩展语言
+
+## CSS in JS
 
 - [styled-components](https://styled-components.com/) - 一个 CSS in JS 库
 - [jss](https://cssinjs.org/?v=v10.10.0) - 一个 CSS in JS 库
+- [Tailwind CSS](https://tailwindcss.com/) - 只需书写 HTML 代码，无需书写 CSS，即可快速构建美观的网站
+
+## CSS 类名处理
+
 - [clsx](https://github.com/lukeed/clsx) - 一个用于处理 css 类名的库，比 classnames 更轻量化
 - [classnames](https://github.com/JedWatson/classnames) - 一个用于处理 css 类名的库
-- [scss/sass](https://sass-lang.com/) - 世界上最成熟、稳定和强大的 CSS 扩展语言
-- [Tailwind CSS](https://tailwindcss.com/) - 只需书写 HTML 代码，无需书写 CSS，即可快速构建美观的网站
 
 ## 国际化
 
