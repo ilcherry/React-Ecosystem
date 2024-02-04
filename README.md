@@ -48,7 +48,7 @@
 
 ## CSS 预处理器
 
-- [scss/sass](https://sass-lang.com/) - 世界上最成熟、稳定和强大的 CSS 扩展语言
+- [Scss/Sass](https://sass-lang.com/) - 世界上最成熟、稳定和强大的 CSS 扩展语言
 - [Less](https://less.bootcss.com/) - 一门向后兼容的 CSS 扩展语言
 - [Stylus](https://www.stylus-lang.cn/) - 富于表现力、动态的、健壮的 CSS
 
