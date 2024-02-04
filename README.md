@@ -16,6 +16,7 @@
 - [TanStack Router](https://tanstack.com/router/latest)
 
 ## 发布订阅
+
 - [mitt](https://www.npmjs.com/package/mitt) - 轻量级的发布订阅工具
 
 ## 状态管理
@@ -48,6 +49,8 @@
 ## CSS 预处理器
 
 - [scss/sass](https://sass-lang.com/) - 世界上最成熟、稳定和强大的 CSS 扩展语言
+- [Less](https://less.bootcss.com/) - 一门向后兼容的 CSS 扩展语言
+- [Stylus](https://www.stylus-lang.cn/) - 富于表现力、动态的、健壮的 CSS
 
 ## CSS in JS
 
@@ -79,7 +82,7 @@
 ## 数据请求状态管理库
 
 - [SWR](https://swr.vercel.app/zh-CN) - 用于数据请求的 React Hooks 库
-- [query](https://tanstack.com/query/latest) - 适用于 TS/JS、React、Solid、Vue 和 Svelte 的强大异步状态管理
+- [TanStack query](https://tanstack.com/query/latest) - 适用于 TS/JS、React、Solid、Vue 和 Svelte 的强大异步状态管理
 
 ## GraphQL
 
@@ -90,16 +93,15 @@
 
 - [Axios](https://www.axios-http.cn/docs/intro) - 一个基于 `Promise` 网络请求库，作用于 node.js 和浏览器中
 
-## 测试
+## 单元测试
 
 - [Jest](https://jestjs.io/) - 一个令人愉快的 JavaScript 单元测试框架
 - [Vitest](https://cn.vitest.dev/) - 由 Vite 提供支持的极速单元测试框架
-- [@testing-library/jest-dom]()
-- [@testing-library/react]()
 
 ## SSG
 
 - [Rspress](https://rspress.dev/) - 基于 Rspack 的静态站点生成器
+- [Docusaurus](https://docusaurus.io/) - 一款静态站点生成器
 
 ## 组件库文档
 
