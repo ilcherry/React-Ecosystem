@@ -130,9 +130,9 @@
 
 - [linkifyjs](https://linkify.js.org/) - 使用 Linkify 查找纯文本链接并将其转换为 HTML <a> 标记。它会自动突出显示 URL、#hashtags、@mentions 等
 - [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的视觉宽度，显示它所需的列数
-
+- [nanoid](https://zelark.github.io/nano-id-cc/) - 一个用于生成随机 `ID` 的库
+  
 ## 日期
 
-- [nanoid](https://zelark.github.io/nano-id-cc/) - 一个用于生成随机 `ID` 的库
 - [Day.js](https://dayjs.gitee.io/zh-CN/) - Moment.js 的 2kB 轻量化方案，拥有同样强大的 AP
 - [date-fns](https://date-fns.org/) - 一个轻量级的 JavaScript 日期库
