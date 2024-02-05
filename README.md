@@ -15,7 +15,7 @@
 ## 路由
 
 - [React Router](https://reactrouter.com/en/main) - 最受欢迎的前端路由之一
-- [TanStack Router](https://tanstack.com/router/latest)
+- [TanStack Router](https://tanstack.com/router/latest) 是一个用于使用你喜爱的现代Web 框架构建Web 应用程序的路由器
 
 ## 发布订阅
 
@@ -79,8 +79,6 @@
 - [Underscore.js](https://underscorejs.org/) 是一个JavaScript 工具库，它提供了一整套函数式编程的实用功能，但是没有扩展任何JavaScript 内置对象
 - [Ramda](https://ramda.cn/) 是一款实用的 JavaScript 函数式编程库
 
-## 
-- [nanoid](https://zelark.github.io/nano-id-cc/) - 一个用于生成随机 `ID` 的库
 
 ## 自定义 hooks
 
@@ -116,6 +114,7 @@
 
 - [Rspress](https://rspress.dev/) - 基于 Rspack 的静态站点生成器
 - [Docusaurus](https://docusaurus.io/) - 一款静态站点生成器
+- [Gatsby](https://www.gatsbyjs.com/) 是一个使用 React 和 GraphQL 在 Node.js 之上构建的开源静态站点生成器
 
 ## 组件库文档
 
@@ -134,5 +133,6 @@
 
 ## 日期
 
+- [nanoid](https://zelark.github.io/nano-id-cc/) - 一个用于生成随机 `ID` 的库
 - [Day.js](https://dayjs.gitee.io/zh-CN/) - Moment.js 的 2kB 轻量化方案，拥有同样强大的 AP
 - [date-fns](https://date-fns.org/) - 一个轻量级的 JavaScript 日期库
