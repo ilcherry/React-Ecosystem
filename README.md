@@ -41,7 +41,7 @@
 
 - [react-hook-form](https://react-hook-form.com/) - 一个简单、灵活且可扩展的表单验证库
 - [react-virtualized](https://bvaughn.github.io/react-virtualized/#/components/List) - 用于有效地呈现大型列表和表格数据
-- [Formik](https://formik.org/) Formik 是世界上最流行的 React 和 React Native 开源表单库
+- [Formik](https://formik.org/) 是世界上最流行的 React 和 React Native 开源表单库
 
 ## Table
 
