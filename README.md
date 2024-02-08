@@ -98,6 +98,7 @@
 ## 网络请求库
 
 - [Axios](https://www.axios-http.cn/docs/intro) - 一个基于 `Promise` 网络请求库，作用于 node.js 和浏览器中
+- [alova.JS](https://alova.js.org/zh-CN/) 号称轻量级请求策略库，只有 axios 的 30% 大小
 
 ## 单元测试
 
