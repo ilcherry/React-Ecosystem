@@ -6,7 +6,6 @@
 
 - [Ant Design](https://ant.design/index-cn) - 一套企业级 UI 设计语言和 React 组件库
 - [Chakra UI](https://chakra-ui.com/getting-started) - 一个简单、模块化和可访问的 UI 组件库
-- [Shadcn UI](https://ui.shadcn.com/docs/components/accordion) - Radix UI - 是一个无头 UI 库。也就是说，它有组件 API，但没有样式。Shadcn UI 建立在 Tailwind CSS 和 Radix UI 之上，目前支持 Next.js、Gatsby、Remix、Astro、Laravel 和 Vite，并且拥有与其他项目快速集成的能力
 - [TDesign](https://tdesign.tencent.com/starter/) - 一套企业级 UI 设计语言和 React 组件库
 - [arco.design](https://arco.design/) - 一套企业级 UI 设计语言和 React 组件库
 - [Material-UI](https://material-ui.com/zh/) - 一个 React 组件库，实现了 Google 的 Material Design 规范
@@ -92,7 +91,7 @@
 
 ## GraphQL
 
-- [urql](https://formidable.com/open-source/urql/docs/) - 一个简单的、轻量的 graphql client
+- [urql](https://formidable.com/open-source/urql/docs/) 是一个高度可定制且多功能的 GraphQL 客户端
 - [Apollo Client](https://www.apollographql.com/docs/react/) - GraphQL 的 JavaScript 客户端
 
 ## 网络请求库
