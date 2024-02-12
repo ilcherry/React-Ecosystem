@@ -6,7 +6,7 @@
 
 - [Ant Design](https://ant.design/index-cn) - 一套企业级 UI 设计语言和 React 组件库
 - [Chakra UI](https://chakra-ui.com/getting-started) - 一个简单、模块化和可访问的 UI 组件库
-- [TDesign](https://tdesign.tencent.com/starter/) - 一套企业级 UI 设计语言和 React 组件库
+- [TDesign](https://tdesign.tencent.com/starter/) 是腾讯推出的企业级 UI 设计语言
 - [arco.design](https://arco.design/) - 一套企业级 UI 设计语言和 React 组件库
 - [Material-UI](https://material-ui.com/zh/) - 一个 React 组件库，实现了 Google 的 Material Design 规范
 
